@@ -1,0 +1,1 @@
+{"name":"Local: play","url":"e:\\Codes\\play.cpp","tests":[{"id":1666105311852,"input":"4\n36 2 5 89","output":"2\n5\n36\n89"},{"id":1666185810879,"input":"5\n41 4 52 25 3","output":"3\n4\n25\n41\n52"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codes\\play.cpp","group":"local","local":true}

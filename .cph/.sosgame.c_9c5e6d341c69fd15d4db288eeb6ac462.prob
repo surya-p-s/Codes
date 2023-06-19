@@ -1,0 +1,1 @@
+{"name":"Local: sosgame","url":"e:\\Codes\\sosgame.c","tests":[{"id":1667049053816,"input":"5\ns\no","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codes\\sosgame.c","group":"local","local":true}
