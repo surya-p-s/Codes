@@ -1,5 +1,4 @@
 #include<stdio.h>
-//  First come first serve (FCFS) Week 1
 int main()
 {
 	float bt[10],at[10],wt=0,tt=0,awt,att,gnct[10],flag1,flag2; 
