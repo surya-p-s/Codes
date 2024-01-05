@@ -3,19 +3,50 @@
         {
             "name": "Win32",
             "includePath": [
-                "${workspaceFolder}/**",
-                "C:/MinGW/include/java/awt",
-                "C:/MinGW/include/c++/3.4.5"
+                "/home/surya/Desktop/Surya/Codes/**",
+                "/usr/include/x86_64-linux-gnu/c++/12",
+                "/usr/include/x86_64-linux-gnu"
             ],
             "defines": [
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE"
             ],
-            "compilerPath": "C:\\MinGW\\bin\\gcc.exe",
-            "cStandard": "c11",
-            "cppStandard": "gnu++14",
-            "intelliSenseMode": "windows-gcc-x86"
+            "compilerPath": "/usr/bin/g++",
+            "cStandard": "gnu17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "windows-gcc-x64",
+            "compilerPathInCppPropertiesJson": "/usr/bin/g++",
+            "mergeConfigurations": false,
+            "browse": {
+                "path": [
+                    "/home/surya/Desktop/Surya/Codes/**",
+                    "/usr/include/x86_64-linux-gnu/c++/12",
+                    "/usr/include/x86_64-linux-gnu",
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        },
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/surya/Desktop/Surya/Codes/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/g++-12",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64",
+            "compilerPathInCppPropertiesJson": "/usr/bin/g++-12",
+            "mergeConfigurations": false,
+            "browse": {
+                "path": [
+                    "/home/surya/Desktop/Surya/Codes/**",
+                    "/home/surya/Desktop/Surya/Codes"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
         }
     ],
     "version": 4
